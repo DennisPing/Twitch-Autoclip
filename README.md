@@ -15,7 +15,7 @@ Analyze Twitch chat logs to extract Twitch hightlights. Uses ML prediction model
 # The Streamer's Perspective
 **After I stream and entertain an audience for 6 hours straight, what are my options?**
   1. Grind more and edit videos because who needs rest.
-  2. Pay a video editor $50/hour.
+  2. Hire a video editor for $50/hour.
   3. Go rest so I have energy to stream tomorrow (to earn money).
 
 # The chicken and the egg problem
@@ -30,4 +30,4 @@ Many media platforms have already implemented some sort of highlighting feature:
 2. [YouTube chapters](https://www.youtube.com/watch?v=93M1l_nrhpQ): In 2020, YouTube introduced "chapters" which are marked timestamps on the video timeline bar. For over a decade, I'm sure you have seen people post timestamps to help others watch a long video.
 ![youtube-chapters](https://i.imgur.com/heqZcKw.png)
 3. To-do
-4. The YouTube algorithm is susceptible to being tricked, and will happily promote clickbait and fake drama because its end-goal is to attract viewers. Thus, whoever posts on YouTube first dictates the direction of the algorithm for a certain metagroup.
+4. The YouTube algorithm is susceptible to being tricked, and will gladly promote clickbait and fake drama. Thus, whoever posts first on YouTube dictates the direction of the algorithm for a certain metagroup.
