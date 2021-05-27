@@ -33,10 +33,10 @@ Many media platforms have already implemented some sort of highlighting feature:
 4. The YouTube algorithm is susceptible to being tricked, and will gladly promote clickbait and fake drama. Thus, whoever posts first on YouTube dictates the direction of the algorithm for a certain metagroup.
 
 ## Value Proposition
-* Streamers can grow their own YouTube channels rather than having views go to other "fan" channels.
+* Streamers can funnel viewers into their channel rather than other "fan" channels.
 * Streamers can upload videos faster and dictate the narrative of their brand.
-* YouTube has better discoverability than Twitch, so new viewers are actually gained from YouTube.
-* Eliminate loss of potential YouTube click through rate (CTR) and advertisement revenue.
+* YouTube algorithm offers better discoverability than Twitch's recommendation algorithm.
+* Eliminate potential loss of YouTube click through rate (CTR) and advertisement revenue.
 
 ## Resources and Credits
 1. [Twitch Chat Downloader](https://github.com/PetterKraabol/Twitch-Chat-Downloader): For providing the Twitch chat downloader tool.
