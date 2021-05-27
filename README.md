@@ -41,6 +41,6 @@ Many media platforms have already implemented some sort of highlighting feature:
 # Resources and Credits
 1. [Twitch Chat Downloader](https://github.com/PetterKraabol/Twitch-Chat-Downloader): For providing the Twitch chat downloader tool.
 2. [Twitch-dl](https://github.com/ihabunek/twitch-dl): For providing the Twitch video downloader tool.
-3. [Towards Extracting Highlights From Recorded Live Videos: An Implicit Crowdsourcing Approach](http://www.sfu.ca/~ruochenj/files/papers/Lightor_paper.pdf): Academic paper on identifying the start and end bounds of potential Twitch highlights using machine learning algorithms.
-4. [Twitch Chat Sentiment Analysis](https://run.unl.pt/bitstream/10362/95285/1/TGI0288.pdf): Academic paper on contextualizing and predicting Twitch chat sentiment using popular Twitch, BTTV, and FFZ emotes.
+3. [Towards Extracting Highlights From Recorded Live Videos: An Implicit Crowdsourcing Approach. 2019](http://www.sfu.ca/~ruochenj/files/papers/Lightor_paper.pdf): Academic paper on identifying the start and end bounds of potential Twitch highlights using machine learning algorithms.
+4. [Twitch Chat Sentiment Analysis. 2019](https://run.unl.pt/bitstream/10362/95285/1/TGI0288.pdf): Academic paper on contextualizing and predicting Twitch chat sentiment using popular Twitch, BTTV, and FFZ emotes.
 5. [FFmpeg](https://www.ffmpeg.org/): CLI media framework to cut, merge, encode, and decode video.
