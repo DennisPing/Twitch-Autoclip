@@ -31,3 +31,16 @@ Many media platforms have already implemented some sort of highlighting feature:
 ![youtube-chapters](https://i.imgur.com/heqZcKw.png)
 3. To-do
 4. The YouTube algorithm is susceptible to being tricked, and will gladly promote clickbait and fake drama. Thus, whoever posts first on YouTube dictates the direction of the algorithm for a certain metagroup.
+
+# Value Proposition
+* Streamers can grow their own YouTube channels rather than having views go to other "fan" channels.
+* Streamers can upload videos faster and dictate the narrative of their brand.
+* YouTube has better discoverability than Twitch, so new viewers are actually gained from YouTube.
+* Eliminate loss of potential YouTube click through rate (CTR) and advertisement revenue.
+
+# Resources
+1. [Twitch Chat Downloader](https://github.com/PetterKraabol/Twitch-Chat-Downloader): For providing the Twitch chat downloader tool.
+2. [Twitch-dl](https://github.com/ihabunek/twitch-dl): For providing the Twitch video downloader tool.
+3. [Towards Extracting Highlights From Recorded Live Videos: An Implicit Crowdsourcing Approach](http://www.sfu.ca/~ruochenj/files/papers/Lightor_paper.pdf): Academic paper on identifying the start and end bounds of potential Twitch highlights using machine learning algorithms.
+4. [Twitch Chat Sentiment Analysis](https://run.unl.pt/bitstream/10362/95285/1/TGI0288.pdf): Academic paper on contextualizing and predicting Twitch chat sentiment using popular Twitch, BTTV, and FFZ emotes.
+5. [FFmpeg](https://www.ffmpeg.org/): CLI media framework to cut, merge, encode, and decode video.
