@@ -26,6 +26,7 @@ However, small to medium sized streamers (200 to 2000 avg viewers) cannot utiliz
 # Why Autoclip is important
 Many media platforms have already implemented some sort of highlighting feature:
 1. [Soundcloud](https://soundcloud.com/discover/sets/charts-top:pop:us): Soundcloud graphs listener comments over time so you know how a song plays BEFORE you ever listen to it. You know when the verse occurs and when the chorus pops off.
+![soundcloud-graph](https://i.imgur.com/CseTog0.png)
 2. [YouTube chapters](https://www.youtube.com/watch?v=93M1l_nrhpQ): In 2020, YouTube introduced "chapters" which are marked timestamps on the video timeline bar. For over a decade, I'm sure you have seen people post timestamps to help others watch a long video.
 ![youtube-chapters](https://i.imgur.com/heqZcKw.png)
 3. To-do
