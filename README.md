@@ -13,7 +13,7 @@ Analyze Twitch chat logs to extract Twitch hightlights. Uses ML prediction model
   3. Wait until someone uploads a YouTube highlight.
 
 # The Streamer's Perspective
-**I stream and entertain an audience for 6 hours straight, what are my options?**
+**After I stream and entertain an audience for 6 hours straight, what are my options?**
   1. Grind more and edit videos because who needs rest.
   2. Pay a video editor $50/hour.
   3. Go rest so I have energy to stream tomorrow (to earn money).
