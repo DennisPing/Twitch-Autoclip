@@ -6,22 +6,24 @@ Analyze Twitch chat logs to extract Twitch hightlights. Uses ML prediction model
 2. **Twitch streams are so long that streamers need to hire an editor or reduce their own streaming time to edit videos themselves.**
 3. **If streamers do not edit their videos, someone else (usually within a week) will edit the videos and upload them onto their own YouTube channel.**
 
-## The Audience's Perspective
+## The Audience's Perspective :tv:
 **If I miss a stream, what are my options?**
   1. Randomly click through a 6 hour long VOD.
   2. Watch Twitch clips which (1) have no sorting algorithm, (2) are made by random people, (3) are often lacking substanial content, and (4) are given nonsensical titles.
   3. Wait until someone uploads a YouTube highlight video.
 
-## The Streamer's Perspective
+## The Streamer's Perspective :movie_camera:
 **After I stream and entertain an audience for 6 hours straight, what are my options?**
   1. Grind more and edit videos because who needs rest.
   2. Hire a video editor for $50/hour.
   3. Go rest so I have energy to stream tomorrow (to earn money).
 
-## The chicken and the egg problem
+## The chicken and the egg problem :hatching_chick:
 Big streamers (over 5000 avg viewers) can afford to hire a full time video editor. They have an existing Twitch audience who craves content, the video editor produces content quickly, and the YouTube algorithm picks up on that interest and introduces new viewers to that streamer.
 
 However, small to medium sized streamers (200 to 2000 avg viewers) cannot utilize the YouTube algorithm to compound any growth. Paying an editor $50/hour will bankrupt them if the YouTube algorithm does not pick them up. On the other hand, spending time to edit videos themselves will cut the amount of **available content** actually being produced.
+
+Unfortunately, very small streamers have do not have a sizeable audience to warrant rapid video production. :sweat: They need to focus on gaining viewers on one platform first. There is an insufficient amount of chat messages.
 
 ## Why Autoclip is important
 Many media platforms have already implemented some sort of highlighting feature:
@@ -32,13 +34,13 @@ Many media platforms have already implemented some sort of highlighting feature:
 3. To-do
 4. The YouTube algorithm is susceptible to being tricked, and will gladly promote clickbait and fake drama. Thus, whoever posts first on YouTube dictates the direction of the algorithm for a certain metagroup.
 
-## Value Proposition
+## Value Proposition :rocket:
 * Streamers can funnel viewers into their channel rather than other "fan" channels.
 * Streamers can upload videos faster and dictate the narrative of their brand.
 * YouTube algorithm offers better discoverability than Twitch's recommendation algorithm.
 * Eliminate potential loss of YouTube click through rate (CTR) and advertisement revenue.
 
-## Resources and Credits
+## Resources and Credits :memo:
 1. [Twitch Chat Downloader](https://github.com/PetterKraabol/Twitch-Chat-Downloader): For providing the Twitch chat downloader tool.
 2. [Twitch-dl](https://github.com/ihabunek/twitch-dl): For providing the Twitch video downloader tool.
 3. [Towards Extracting Highlights From Recorded Live Videos: An Implicit Crowdsourcing Approach. 2019](http://www.sfu.ca/~ruochenj/files/papers/Lightor_paper.pdf): Academic paper on identifying the start and end bounds of potential Twitch highlights using machine learning algorithms.
