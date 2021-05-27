@@ -21,7 +21,7 @@ Analyze Twitch chat logs to extract Twitch hightlights. Uses ML prediction model
 # The chicken and the egg problem
 Big streamers (over 5000 avg viewers) can afford to hire a full time video editor. They have an existing Twitch audience who craves content, the video editor produces content quickly, and the YouTube algorithm picks up on that interest and introduces new viewers to that streamer.
 
-However, small to medium sized streamers (200 to 2000 avg viewers) cannot utilize the YouTube algorithm to compound any growth. Paying an editor $50/hour will bankrupt them if they do not receive sufficient growth from the YouTube algorithm. Spending time to edit videos themselves will cut the amount of **available content** actually being produced.
+However, small to medium sized streamers (200 to 2000 avg viewers) cannot utilize the YouTube algorithm to compound any growth. Paying an editor $50/hour will bankrupt them if the YouTube algorithm does not pick them up. On the other hand, spending time to edit videos themselves will cut the amount of **available content** actually being produced.
 
 # Why Autoclip is important
 Many media platforms have already implemented some sort of highlighting feature:
