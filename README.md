@@ -16,7 +16,7 @@ Analyze Twitch chat logs to extract Twitch hightlights. Uses ML prediction model
 **After I stream and entertain an audience for 6 hours straight, what are my options?**
   1. Grind more and edit videos because who needs rest.
   2. Hire a video editor for $50/hour.
-  3. Go rest so I have energy to stream tomorrow (to earn money).
+  3. Go rest and stream tomorrow (and repeat).
 
 ## The chicken and the egg problem :hatching_chick:
 Big streamers (over 5000 avg viewers) can afford to hire a full time video editor. They have an existing Twitch audience who craves content, the video editor produces content quickly, and the YouTube algorithm picks up on that interest and introduces new viewers to that streamer.
