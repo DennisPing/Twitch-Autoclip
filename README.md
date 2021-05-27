@@ -38,7 +38,7 @@ Many media platforms have already implemented some sort of highlighting feature:
 * YouTube has better discoverability than Twitch, so new viewers are actually gained from YouTube.
 * Eliminate loss of potential YouTube click through rate (CTR) and advertisement revenue.
 
-# Resources
+# Resources and Credits
 1. [Twitch Chat Downloader](https://github.com/PetterKraabol/Twitch-Chat-Downloader): For providing the Twitch chat downloader tool.
 2. [Twitch-dl](https://github.com/ihabunek/twitch-dl): For providing the Twitch video downloader tool.
 3. [Towards Extracting Highlights From Recorded Live Videos: An Implicit Crowdsourcing Approach](http://www.sfu.ca/~ruochenj/files/papers/Lightor_paper.pdf): Academic paper on identifying the start and end bounds of potential Twitch highlights using machine learning algorithms.
