@@ -9,7 +9,7 @@ Analyze Twitch chat logs to extract Twitch hightlights. Uses ML prediction model
 # The Audience's Perspective
 **If I miss a stream, what are my options?**
   1. Randomly click through a 6 hour long VOD.
-  2. Watch Twitch clips which (1) have no sorting algorithm, (2) are made by random people, (3) are often lacking substanial content, and (4) are given random titles.
+  2. Watch Twitch clips which (1) have no sorting algorithm, (2) are made by random people, (3) are often lacking substanial content, and (4) are given nonsensical titles.
   3. Wait until someone uploads a YouTube highlight.
 
 # The Streamer's Perspective
