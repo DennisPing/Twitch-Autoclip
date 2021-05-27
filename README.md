@@ -37,7 +37,7 @@ Many media platforms have already implemented some sort of highlighting feature:
 ## Value Proposition :rocket:
 * Streamers can funnel viewers into their channel rather than lose views to other "fan" channels.
 * Eliminate potential loss of YouTube click through rate (CTR) and advertisement revenue.
-  * Sponsors will determine one's rate through several metrics. But counting total views from other YouTube channels is not of them.
+  * Sponsors will determine one's rate through several metrics. But counting total views from other reposted videos is not one of them.
 * Streamers can upload videos faster and dictate the narrative of their brand.
 * YouTube algorithm offers better discoverability than Twitch's recommendation algorithm.
 
