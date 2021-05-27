@@ -41,6 +41,15 @@ Many media platforms have already implemented some sort of highlighting feature:
 * Streamers can upload videos faster and dictate the narrative of their brand.
 * YouTube algorithm offers better discoverability than Twitch's recommendation algorithm.
 
+## Requirements
+* Python 3.8+
+* numpy
+* scikit
+* scikit-learn
+* requests
+* python-dateutil
+* pytz
+* twitch-python
 
 ## Resources and Credits :memo:
 1. [Twitch Chat Downloader](https://github.com/PetterKraabol/Twitch-Chat-Downloader): For providing the Twitch chat downloader tool.
