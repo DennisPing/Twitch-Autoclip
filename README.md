@@ -25,7 +25,7 @@ However, small to medium sized streamers (200 to 2000 avg viewers) cannot utiliz
 
 Unfortunately, very small streamers have do not have a sizeable audience to warrant rapid video production. :sweat: They need to focus on gaining viewers on one platform first. There is an insufficient amount of chat messages.
 
-## Why Autoclip is important
+## Why Autoclip is important :heavy_check_mark:
 Many media platforms have already implemented some sort of highlighting feature:
 1. [Soundcloud](https://soundcloud.com/discover/sets/charts-top:pop:us): Soundcloud graphs its user comments over time so you know how a song plays BEFORE you ever listen to it. You know when the verse occurs and when the chorus pops off.
 ![soundcloud-graph](https://i.imgur.com/CseTog0.png)
