@@ -4,6 +4,7 @@ from matplotlib.dates import DateFormatter
 from itertools import cycle
 import datetime
 from time import time
+from io_manager import IO_Manager
 
 def get_emote_names(emote, multi_emotes):
     names = []
@@ -32,7 +33,10 @@ def main():
     t1 = time()
     chatcount = []
     cwd = os.getcwd()
-    with open(f"{cwd}/chatlogs/1067165231.log") as chatlog:
+    # manager = IO_Manager()
+    # print(manager.prompt_url())
+
+    with open(f"{cwd}/chatlogs/jakenbakelive.log", encoding='utf-8') as chatlog:
         timer = 30
         count = 0
 
@@ -62,8 +66,6 @@ def main():
 
     graph_rate(chatcount)
 
-            
-        
 
 if __name__ == "__main__":
     main()
