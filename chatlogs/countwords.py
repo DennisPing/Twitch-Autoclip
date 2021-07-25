@@ -18,4 +18,4 @@ while True:
 for word, count in counts.most_common(10):
     print(word, count)
 
-# Get-Content fuslie.txt | python countwords.py
+# Get-Content fuslie.log | python countwords.py
